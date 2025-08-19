@@ -1,10 +1,11 @@
 # QGIS Day 2 — NYC Population Density (2010)
 
-<!-- Inline preview image (note the encoded spaces in the filename) -->
-<img src="New%20York%20Population%20Density%20.png" alt="NYC Population Density 2010 choropleth by NTA" width="900">
+<!-- Use the exact filename with spaces as-is -->
+<img src="New York Population Density .png" alt="NYC Population Density 2010 choropleth by NTA" width="900">
 
 **Open the high-res PDF:**  
 [New York Density data Pdf 2 Project.pdf](New%20York%20Density%20data%20Pdf%202%20Project.pdf)
+
 
 This repository contains my Day 2 QGIS exercise: a choropleth of New York City **Neighborhood Tabulation Areas (NTAs)** showing **2010 population density** (people per square mile). I filtered the population table to `Year = 2010`, joined it to NTA polygons by `NTACode`, computed density from polygon area (ft² → mi²), styled a graduated map with custom class breaks, and designed a print layout.
 
