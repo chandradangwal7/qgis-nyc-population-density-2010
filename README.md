@@ -1,7 +1,8 @@
 # QGIS Day 2 — NYC Population Density (2010)
 
 <!-- Use the exact filename with spaces as-is -->
-<img src="New York Population Density .png" alt="NYC Population Density 2010 choropleth by NTA" width="900">
+<img src="https://raw.githubusercontent.com/chandradangwal7/qgis-nyc-population-density-2010/main/New%20York%20Population%20Density%20.png" alt="NYC Population Density 2010 choropleth by NTA" width="900">
+
 
 **Open the high-res PDF:**  
 [New York Density data Pdf 2 Project.pdf](New%20York%20Density%20data%20Pdf%202%20Project.pdf)
